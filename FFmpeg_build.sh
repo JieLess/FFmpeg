@@ -2,7 +2,7 @@
 
 NDK=/home/hello/ndk/android-ndk-r20b
 TOOLCHAIN=$NDK/toolchains/llvm/prebuilt/linux-x86_64/
-API=29
+API=21
 function build_android
 { 
 echo "Compiling FFmpeg for $CPU"
